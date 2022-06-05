@@ -1,0 +1,26 @@
+db.CV.insert(
+{
+Nombre:"Sanchez Gonzaga Cristopher",
+Calle:["Moctezuma 2da Seccion","Av Oceania"],
+Telefono:"5547279727",
+CorreoElectronico:"Cristopher6400@hotmail.com",
+CP:"15530",
+Objetivos:
+[
+{Objetivo:"Ser mejor en  mi trabajo"},
+{Objetivo:"aprender mucho más de mi trabajo"},
+{Objetivo:"realizar mis trabajos limpios"},
+{Objetivo:"rápidos y  a tiempo y ser puntual al trabajo"}
+],
+Educacion:
+[
+{Grado:"Primaria",Escuela:"Republica De Túnez",Tiempo:"CERTIFICADO"},
+{Grado:"Secundaria",Escuela:"Esc. Sec. Tec. 14 Cinco de Mayo",Tiempo:"CERTIFICADO"},
+{Grado:"Bachillerato",Escuela:"Cetís No.54 Guadalupe Victoria",Tiempo:"CERTIFICADO"}, 
+{Grado:"Licenciatura",Escuela:"Instituto Tecnológico Gustavo A. Madero",Tiempo:"EN CURSO"}
+],
+Experiencia:"Cuento con experiencia en soporte técnico de equipos de cómputo realizando mi Servicio Social en el Sistema de Transporte Colectivo Metro, También realizando trabajos de mantenimiento y soporte a equipos de cómputo por mi parte",
+Cualificaciones:"Puedo realizar todo tipo de trabajo en mantenimiento en equipos de cómputo, también puedo realizar limpieza de equipos de cómputo y realizar cualquier tipo de trabajo que se requiera.",
+Extra:"Tener la disposición necesaria y flexibilidad en horarios que se requiera o cuando sea necesaria"
+}
+);
